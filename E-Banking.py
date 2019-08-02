@@ -83,7 +83,7 @@ while True:
 
     elif choice is 5:
         while True:
-            account_number = input("Enter account number: ")
+            account_number = input("Enter account number : ")
 
 
 
